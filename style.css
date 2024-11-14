@@ -1,0 +1,199 @@
+
+.container{
+
+width: 70%;
+margin: 0 auto;
+text-align: left
+
+ 
+
+}
+
+
+
+.conteudo-principal-escrito {
+    color: #e1624f;
+    font-family: "Open Sans", sans-serif;
+height: 22px;
+width: 1120px;
+margin-bottom: 8px;
+ 
+}
+
+.conteudo-principal-escrito-titulo{
+    height: auto;
+    width: 275px;
+    height: 49px;
+    margin-bottom: 40px;
+    margin-top: 45px;
+    font-weight: bold;
+}
+
+.conteudo-principal-paragrafo{
+    width: 1120px;
+    height: 110px;
+    font-size: large;
+    font-style: initial;
+    letter-spacing: 1.5px;
+    font-weight: normal;
+
+}
+
+.imagem1 { 
+    width: 1120px;
+    height: 660px;
+    margin-bottom: 24px;
+}
+
+hr {
+margin-top: 60px;
+border: none; 
+    height: 1px; 
+    background-color: transparent; 
+
+}
+
+.templo-yonggunsgsa-escrito {
+  
+   color: #e1624f;
+   width: 1120px ;
+   height: 22px;
+   margin-bottom: 2px;
+   font-weight: bold;
+}
+
+.templo-yonggunsgsa-titulo {
+width: 683px;
+height: 44px;
+font-weight: bold;
+margin-bottom: 8px;
+
+}
+
+.templo-yonggunsgsa-paragrafo {
+    width: 1120px;
+    height: 110px;
+    font-size: large;
+    font-style: initial;
+    letter-spacing: 1.5px;
+    font-weight: normal;
+
+}
+
+.imagem2 {
+    width: 1120px;
+    height: 350px;
+   fill: 100%;
+   margin-bottom: 20px;
+}
+
+
+.templo-yonggunsgsa-titulo2 {
+width: 1184px;
+height: 38px;
+font-weight: bold;
+margin-bottom: 4px;
+font-size:xx-large ;
+}
+
+.templo-yonggunsgsa-paragrafo2 {
+    width: 1120px;
+    height: 110px;
+    font-size: large;
+    font-style: initial;
+    letter-spacing: 1.5px;
+    
+
+}
+
+.templo-yonggunsgsa-Footer{
+    font-weight: bold;
+    width: 1120px;
+    height: 152px;
+    margin-bottom: 4px;
+}
+
+.templo-beomeo-sa-color1 {
+color:rgb(7, 7, 210);
+
+}
+
+.templo-beomeo-sa{
+    
+    font-weight: bold;
+    width: 1120px;
+    height: 35px;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.templo-beomeo-sa-paragrafo {
+    width: 1120px;
+    height: 110px;
+    font-size: large;
+    font-style: initial;
+    letter-spacing: 1.5px;
+    font-weight: normal;
+
+}
+
+.footer2{
+    font-weight: bold;
+    width: 1120px;
+    height: 55px;
+    margin-bottom: 4px;
+}
+
+.templo-beomeo-sa-color2{
+    color:rgb(7, 7, 210);
+}
+
+.parque-yongdusan{
+    width: 1184px;
+    height: 38px;
+    font-weight: bold;
+    margin-bottom: 4px;
+    font-size:xx-large ;
+
+}
+
+.parque-yongdusan-paragrafo{
+    width: 1120px;
+    height: 110px;
+    font-size: large;
+    font-style: initial;
+    letter-spacing: 1.5px;
+    font-weight: normal;
+
+}
+
+.parque-yongdusan-color3{
+    font-weight: bold;
+    width: 1120px;
+    height: 200px;
+}
+
+.mudarcor1{
+color:blueviolet;
+
+}
+
+.mudarcor2 {
+    color: rgba(247, 8, 64, 0.881);
+}
+
+.mudarcor3 {
+color :coral ;
+
+}
+
+.ultimo-paragrafo{
+    width: 1120px;
+    height: 110px;
+    font-size: large;
+    font-style: initial;
+    letter-spacing: 1.5px;
+    font-weight: normal;
+}
+
+
